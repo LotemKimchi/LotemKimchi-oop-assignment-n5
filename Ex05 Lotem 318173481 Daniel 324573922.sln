@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.Logic", "Ex05.Logic\Ex05.Logic.csproj", "{4BED1196-623C-4EB0-9CD0-F8035E23595A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.UI", "Ex05.UI\Ex05.UI.csproj", "{E8BBEE20-0453-48EC-9608-A468F1E4C9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BED1196-623C-4EB0-9CD0-F8035E23595A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BED1196-623C-4EB0-9CD0-F8035E23595A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BED1196-623C-4EB0-9CD0-F8035E23595A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BED1196-623C-4EB0-9CD0-F8035E23595A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BBEE20-0453-48EC-9608-A468F1E4C9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BBEE20-0453-48EC-9608-A468F1E4C9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BBEE20-0453-48EC-9608-A468F1E4C9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BBEE20-0453-48EC-9608-A468F1E4C9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16584483-1356-4152-83E9-116C29A2D39C}
+	EndGlobalSection
+EndGlobal
