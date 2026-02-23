@@ -101,4 +101,4 @@ Developed as part of an Object-Oriented Programming course in C# and .NET.
 ---
 
 ### 👩‍💻 Author
-Sahar Kimchi
+Lotem Kimchi
